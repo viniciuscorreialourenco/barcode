@@ -30,14 +30,30 @@ body{
      margin-left: 30px;
      margin-top: 15%;
 }
-img{
+#inicio{
      margin-top: 15%;
      margin-left: 67px;
     
 }
 #subtitulo{
      color:white;
+     font-size: 21px;
+     font-weight: bold;
 }
 #texto{
      color:white;
+     margin-top: 10px
+}
+#dispositivo1{
+     margin-top: 10px;
+     
+}
+#preco{
+     color: greenyellow;
+}
+#gerais{
+     color: darkorange;
+}
+p{
+     color: white;
 }
