@@ -1,2 +1,43 @@
 /**/
-
+body{
+     background-image: url("../imagens/1.jpg");
+}
+.box{
+     background-color: rgb(51, 88, 255);
+     margin-left: auto;
+     margin-right: auto; 
+     width: 300px;
+     height: 300px;
+     border-radius: 20px;
+     margin-top: 50%;  
+}
+.titulo{
+     background-color: rgb(24, 22, 109);
+     margin-left: auto;
+     margin-right: auto;
+     width: 300px;
+     border-top-left-radius: 20px;
+     border-top-right-radius: 20px;
+}
+#titulo1{
+     color: white;
+     text-align: center;
+     font-weight: bold;
+     font-family: cursive;
+}
+#botao{ 
+     width: 80%;
+     margin-left: 30px;
+     margin-top: 15%;
+}
+img{
+     margin-top: 15%;
+     margin-left: 67px;
+    
+}
+#subtitulo{
+     color:white;
+}
+#texto{
+     color:white;
+}
